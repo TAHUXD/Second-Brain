@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/README.md",
+                "file": "Projects/Learn Obsidian/Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Tasks"
             }
           }
         ]
@@ -197,26 +197,26 @@
   },
   "active": "d7ef83b7f13399b6",
   "lastOpenFiles": [
+    "Notes/Notes.md",
+    "Notes/Wikilinks.md",
+    "Projects/Learn Obsidian/Overview.md",
+    "Resources/Resources.md",
+    "Resources/README.md",
+    "Notes/README.md",
     "Obsidian Bases.md",
     "Test Note.md",
     "Test Note Learning.md",
     "Test Note Learning 2.md",
     "Projects/README.md",
     "Home.md",
-    "Notes/Wikilinks.md",
-    "Resources/README.md",
     "Archive/Archive.md",
-    "Resources/Resources.md",
     "Projects/Projects.md",
-    "Notes/Notes.md",
     "Inbox/Inbox.md",
     "Projects/Learn Obsidian/Tasks.md",
-    "Projects/Learn Obsidian/Overview.md",
     "Welcome.md",
     "Projects/Learn Obsidian",
     "obsidian-markdown.md",
     "Archive/README.md",
-    "Notes/README.md",
     "Inbox/README.md",
     "Archive",
     "Resources",

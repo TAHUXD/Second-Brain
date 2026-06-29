@@ -28,7 +28,7 @@ Obsidian is the foundation of your Second Brain. The better you know it, the fas
 
 ## Resources
 
-- [[Resources/README|Resources folder]] — save useful Obsidian docs and articles here
+- [[Resources/Resources|Resources folder]] — save useful Obsidian docs and articles here
 
 ---
 
