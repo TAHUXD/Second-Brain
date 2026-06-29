@@ -11,10 +11,14 @@
             "id": "726e927e8be7262f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian-markdown.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "obsidian-markdown"
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian-markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for obsidian-markdown"
             }
           },
           {
@@ -124,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian-markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from obsidian-markdown"
             }
           },
           {
@@ -166,12 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian-markdown.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of obsidian-markdown"
             }
           }
         ]
@@ -189,11 +196,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "726e927e8be7262f",
   "lastOpenFiles": [
+    "obsidian-markdown.md",
+    "Test Note.md",
+    "Claude Memory",
     "Welcome.md"
   ]
 }
