@@ -6,4 +6,8 @@ tags:
 status: in-progress
 ---
 
+> [!tip] This is a callout
+> Callouts highlight important information visually
+
+
 [[Home]]

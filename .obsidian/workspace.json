@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Note Learning 2.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Note Learning 2"
+              "title": "Home"
             }
           }
         ]
@@ -198,9 +198,9 @@
   "active": "b856ef4c65836e03",
   "lastOpenFiles": [
     "Test Note Learning.md",
+    "Test Note Learning 2.md",
     "Resources/README.md",
     "Projects/Learn Obsidian/Overview.md",
-    "Test Note Learning 2.md",
     "Notes/Frontmatter.md",
     "Notes/Notes.md",
     "Projects/Learn Obsidian/Tasks.md",
