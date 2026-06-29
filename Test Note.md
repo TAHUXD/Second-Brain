@@ -25,7 +25,7 @@ This note was created by Claude via the [[obsidian-markdown]] skill.
 
 ## Next Steps
 
-- [ ] Set up Obsidian Git auto-sync
+- [x] Set up Obsidian Git auto-sync
 - [ ] Create a folder structure for the vault
 - [ ] Connect more notes together
 
