@@ -16,9 +16,9 @@ tags:
 - [x] Install Claude obsidian-skills
 
 ## Learn the basics
-- [ ] Understand the folder structure ([[Overview|see Overview]])
-- [ ] Create your first note manually in Obsidian
-- [ ] Use `[[wikilinks]]` to link two notes together
+- [x] Understand the folder structure ([[Overview|see Overview]])
+- [x] Create your first note manually in Obsidian
+- [x] Use `[[wikilinks]]` to link two notes together
 - [ ] Add tags and frontmatter to a note
 - [ ] Try a callout block (`> [!tip]`)
 
